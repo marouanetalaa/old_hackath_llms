@@ -1,4 +1,4 @@
-# RAG pour la Santé
+# README
 
 Ce projet démontre l’utilisation de la technique **Retrieval-Augmented Generation (RAG)** pour répondre de manière plus pertinente à un benchmark médical à l’aide d’un Large Language Model (LLM). L’approche consiste à constituer une base de connaissances spécifique et à intégrer, en temps réel, les extraits les plus pertinents dans le prompt du LLM.
 
